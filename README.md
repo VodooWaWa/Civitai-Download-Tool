@@ -37,6 +37,7 @@ AI 模型下载/管理/整理 一站式神器✨
 ![主界面](Example%20image/1.png)
 ![下载管理](Example%20image/2.png)
 ![模型管理](Example%20image/3.png)
+![离线HTML](Example%20image/4.png)
 
 ---
 
