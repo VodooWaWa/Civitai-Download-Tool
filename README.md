@@ -1,4 +1,4 @@
-![LOGO](Example%20image/ico.png)
+![LOGO](Example%20image/LOGO.png)
 # Civitai 下载解析工具（使用说明）
 
 本软件用于解析 Civitai / HuggingFace 模型链接，批量加入下载队列并管理下载进度，自动断点续传，重新申请下载地址，自动获取封面缩略图，支持哈希校验与本地模型整理与查看，生成离线HTML页面方便查看模型详情，带提示词解析和工作流解析，一键复制参考。
