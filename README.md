@@ -11,7 +11,9 @@ AI 模型下载/管理/整理 一站式神器✨
 ---
 
 ## 🚀 如何运行
-- 直接打开：`CivitaiDownloader.exe`
+- 因为解析视频图片工作流需要调用[exiftool](https://exiftool.org/)和[ffmpeg](https://ffmpeg.org/download.html#build-windows)，本仓库没有内置，请自行下载解压，或者去[百度网盘]()下载。
+- 解压后按CivitaiDownloader.exe | ffmpeg\bin\ffmpeg.exe（以及可选 ffprobe.exe、ffplay.exe） | exiftool\exiftool.exe结构将程序放到同一根目录。
+- 打开运行：`CivitaiDownloader.exe`
 - 默认模型下载：`程序目录\downloads\models`
 - 默认封面缓存：`程序目录\downloads\images`
 
