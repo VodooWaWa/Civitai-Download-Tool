@@ -1,4 +1,4 @@
-<center>![LOGO](Example%20image/LOGO.png)</center>
+![LOGO](Example%20image/LOGO.png)
 # 🧸 Civitai 下载解析工具｜超全使用指南
 AI 模型下载/管理/整理 一站式神器✨
 为[视图选择器](https://github.com/VodooWaWa/Comfyui-Visual-Select)插件量身定制配套组合。
