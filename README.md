@@ -1,6 +1,7 @@
 ![LOGO](Example%20image/LOGO.png)
 # 🧸 Civitai 下载解析工具｜超全使用指南
 AI 模型下载/管理/整理 一站式神器✨
+为[视图选择器](https://github.com/VodooWaWa/Comfyui-Visual-Select)插件量身定制配套组合。
 
 本软件专门用来解析 Civitai / HuggingFace 模型链接
 批量下载➕断点续传➕自动封面➕哈希校验
