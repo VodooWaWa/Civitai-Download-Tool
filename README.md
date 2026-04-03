@@ -11,7 +11,7 @@ AI 模型下载/管理/整理 一站式神器✨
 ---
 
 ## 🚀 如何运行
-- 因为解析视频图片工作流需要调用[exiftool](https://exiftool.org/)和[ffmpeg](https://ffmpeg.org/download.html#build-windows)，本仓库没有内置，请自行下载解压，或者去[百度网盘](https://pan.baidu.com/s/1R2q6ZoO7Axf2nw5Jx3LRsw?pwd=dw9e)
+- 因为解析视频图片工作流需要调用[exiftool](https://exiftool.org/)和[ffmpeg](https://ffmpeg.org/download.html#build-windows)，本仓库没有内置，请自行下载解压，或者去[百度网盘](https://pan.baidu.com/s/1R2q6ZoO7Axf2nw5Jx3LRsw?pwd=dw9e)直接下载ALL版本。
 
 - 通过网盘分享的文件：Civitai下载助手
 链接: https://pan.baidu.com/s/1R2q6ZoO7Axf2nw5Jx3LRsw?pwd=dw9e 提取码: dw9e
