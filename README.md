@@ -24,11 +24,8 @@ AI 模型下载/管理/整理 一站式神器✨
 ---
 
 ## ⚙️ 配置文件位置
-配置存在 `user_config.json`
+配置存在 程序主目录`user_config.json`
 记住下载路径、代理、并发数、API Key 等
-
-- 推荐默认：`%APPDATA%\CivitaiDownloader\user_config.json`
-- 便携模式：设置环境变量 `CIVITAI_PORTABLE_CONFIG=1`
 
 ---
 
