@@ -10,6 +10,8 @@ AI 模型下载/管理/整理 一站式神器✨
 
 **很奇怪，360会误报我的工具有毒。[Virscan扫描链接](https://www.virscan.org/report/01f36698fbb47d67b27ebd8f4109e46c42905d6679f527376b3a14861c9683bf)，这是VirScan的扫描记录，全过。不放心的自己扫描一遍。**
 
+工具使用视频教程B站链接：https://www.bilibili.com/video/BV1kcDMBHELM/
+
 ---
 
 ## 🚀 如何运行
