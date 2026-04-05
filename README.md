@@ -8,7 +8,8 @@ AI 模型下载/管理/整理 一站式神器✨
 本地模型整理 + 离线HTML查看 + 提示词/工作流解析
 一键复制参考，新手也能轻松上手～
 
-**很奇怪，360会误报我的工具有毒。[Virscan扫描链接](https://www.virscan.org/report/01f36698fbb47d67b27ebd8f4109e46c42905d6679f527376b3a14861c9683bf)，这是VirScan的扫描记录，全过。不放心的自己扫描一遍。**
+**很奇怪，360会误报我的工具有毒。[Virscan扫描链接](https://www.virscan.org/report/44443db50ca33f078ac1ba3f6d9d3082ba6255377d681755814d6d86b5f6e5ad)，这是VirScan的扫描记录，全过。不放心的自己扫描一遍。**
+![Virscan](Example%20image/VirScan.png)
 
 工具使用视频教程B站链接：https://www.bilibili.com/video/BV1kcDMBHELM/
 
