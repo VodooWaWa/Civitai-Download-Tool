@@ -16,7 +16,7 @@ AI 模型下载/管理/整理 一站式神器✨
 ## ​​✨v 1.1.0 版本更新
 - 新版本我懒的再扫Virscan了，不放心的自己扫一下。
 - 新增图片视频元数据反向解析功能（原本这个功能只用在html生成），现在可以自由扔图和视频进去解析。
-  ![Parsing and Translation](Example%20imageParsing and Translation.png.png)
+  ![反向解析](Example%20image/Parsing%20and%20Translation.png)
 
 ---
 
